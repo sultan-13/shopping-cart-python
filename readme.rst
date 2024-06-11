@@ -1,0 +1,2 @@
+I have created a E-commerce site by using python flask which is known as Shopping card based on HTML,CSS,My SQL Database & python.Then I have used Visual Studio as a code editor & XAMPP as a local server.
+After that,I have installed flask.Then, I have created a new database.After creating database, I have created tables in database.Then,I have downloaded My SQL file also.Then, I have opened a development server after running main.pi file in vs code.
